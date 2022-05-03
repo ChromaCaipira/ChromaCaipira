@@ -1,4 +1,4 @@
-### UÊPA, meu bom! Sou Guilherme, mas também sigo o nickname ChromaCaipira. 👋
+### Bom dia/tarde/noite! Sou Guilherme da Silva, mas também sigo o nickname ChromaCaipira. 👋
 
 - 🔭 Estou a procura de estágio.
 - 🌱 Atualmente na Uninassau Paulista (Pernambuco, Brasil)
