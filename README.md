@@ -13,7 +13,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Chroma-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="right" alt="Chroam-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202204/338224_h7urV6PX.png">
+  <img align="right" alt="Chroma-pic" height="150" style="border-radius:50px;" src="https://yt3.ggpht.com/abjvMJ2-Dwh02m_Z6x_V3MBvK-a5bB0Au783c5Tv-MKq5UgfQFIYd79d8XS7XO4rJs_8XXFqwA=s100-c-k-c0x00ffffff-no-rj">
 </div>
   
 ##
