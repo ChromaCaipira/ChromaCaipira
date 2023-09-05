@@ -15,8 +15,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Chroma-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Chroma-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="center" alt="Chroma-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Chroma-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="center" alt="Chroma-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Chroma-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
   <img align="center" alt="Chroma-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" />
   <img align="right" alt="Chroma-pic" height="150" src="https://yt3.ggpht.com/abjvMJ2-Dwh02m_Z6x_V3MBvK-a5bB0Au783c5Tv-MKq5UgfQFIYd79d8XS7XO4rJs_8XXFqwA=s100-c-k-c0x00ffffff-no-rj">
