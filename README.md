@@ -12,7 +12,7 @@
 
 <h2>[SKILLS]</h2>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,kotlin"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,kotlin,py,androidstudio,vscode,linux"/>
 </a>
 <br>
 
