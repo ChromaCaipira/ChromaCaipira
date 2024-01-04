@@ -2,7 +2,6 @@
 
 <h2>[INFO]</h2>
 <ul>
-  <img align="right" alt="Profile" height="150" src="https://yt3.ggpht.com/abjvMJ2-Dwh02m_Z6x_V3MBvK-a5bB0Au783c5Tv-MKq5UgfQFIYd79d8XS7XO4rJs_8XXFqwA=s100-c-k-c0x00ffffff-no-rj">
   <li>🔭 Estou à procura de <strong>estágio</strong></li>
   <li>🏛️ Atualmente na <strong>UNINASSAU Paulista</strong> (Pernambuco, Brasil)</li>
   <li>🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> (Curso Superior em Tecnologia)</li>
