@@ -23,7 +23,7 @@
 
 ### 📈 Estatísticas
 <div>
-  <a href="https://github.com/ChromaCaipira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ChromaCaipira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChromaCaipira&layout=compact&langs_count=6&theme=chartreuse-dark"/>
+  <a href="https://github.com/ChromaCaipira/">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ChromaCaipira&show_icons=true&theme=react&count_private=true&hide_title=true&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChromaCaipira&layout=compact&langs_count=6&theme=react"/>
 </div>
